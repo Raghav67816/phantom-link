@@ -1,0 +1,24 @@
+QMainWindow{
+    background-color: black;
+}
+
+QPushButton, QToolButton{
+    background-color: transparent;
+    color: white;
+    height: 30px;
+}
+
+QPushButton:hover, QToolButton:hover{
+    border: 1px solid rgb(0, 165, 157);
+}
+
+QLineEdit, QTextEdit{
+    color: white;
+    background-color: transparent;
+    border: 1px solid rgb(0, 165, 157);
+    height: 30px;
+}
+
+QFrame{
+    border: 0px solid;
+}

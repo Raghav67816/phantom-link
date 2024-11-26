@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/contacts.png</file>
+    <file>icons/user.png</file>
+    <file>icons/phone.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/right.png</file>
+  </qresource>
+</RCC>
