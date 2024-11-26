@@ -14,3 +14,8 @@ pip3 install pyside6
 ```
 python3 main.py
 ```
+
+## Screenshot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raghav67816/phantom-link/refs/heads/main/image.png" />
+</p>
